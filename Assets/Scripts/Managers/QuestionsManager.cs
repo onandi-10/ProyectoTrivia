@@ -11,6 +11,8 @@ public class QuestionsManager : Singleton<QuestionsManager>
 
     private GameManager _gameManager;
 
+    private QuestionModel _currentQuestion;
+
 
     private void Start()
     {
@@ -22,11 +24,17 @@ public class QuestionsManager : Singleton<QuestionsManager>
     
     void LoadNextQuestion()
     {
-        var newQuestion = _gameManager.GetQuestionForCategory(CategoryName);
-        if(newQuestion != null)
+        _currentQuestion = _gameManager.GetQuestionForCategory(CategoryName);
+        if(_currentQuestion != null)
         {
-            Question.PopulateQuestion(newQuestion);
+            Question.PopulateQuestion(_currentQuestion);
 
         }
+    }
+
+    public bool AnswerQuestion(int answerIndex)
+    {
+        return _currentQuestion.CorrectAnswerIndex == answerIndex;
+
     }
 }
