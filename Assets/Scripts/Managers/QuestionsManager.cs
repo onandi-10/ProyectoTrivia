@@ -12,13 +12,14 @@ public class QuestionsManager : Singleton<QuestionsManager>
     private GameManager _gameManager;
 
 
-    private void OnEnable()
+    private void Start()
     {
         //Reference
         _gameManager = GameManager.Instance;
 
         LoadNextQuestion();
     }
+    
     void LoadNextQuestion()
     {
         var newQuestion = _gameManager.GetQuestionForCategory(CategoryName);
