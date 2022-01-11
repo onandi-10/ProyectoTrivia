@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1acafffee0a79c4aaa4aa3a43f69105, type: 3}
+  m_Name: Configuration
+  m_EditorClassIdentifier: 
+  Categories:
+  - CategoryName: Television
+    Questions:
+    - Question: "\xBFEn que a\xF1o salio la primera pel\xEDcula de Spiderman de Sam
+        Raimi"
+      Answer1: 2003
+      Answer2: 1999
+      Answer3: 2002
+      Answer4: 2001
+      CorrectAnswerIndex: 3
+    - Question: 
+      Answer1: 
+      Answer2: 
+      Answer3: 
+      Answer4: 
+      CorrectAnswerIndex: 0
