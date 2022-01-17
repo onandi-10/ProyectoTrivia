@@ -21,6 +21,7 @@ public class ShowPanelButton : MonoBehaviour
     {
         // Cache the manager
         _panelManager = PanelManager.Instance;
+        Debug.Log(_panelManager);
     }
 
     public void DoShowPanel()

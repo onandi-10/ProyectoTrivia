@@ -19,7 +19,8 @@ public class WheelUI : MonoBehaviour
    {
        float randomAngle = Random.Range(0, 360);
 
-       Debug.Log(GetLandedCategory(randomAngle));
+       GameManager.Instance.SetCurrentCategory(GetLandedCategory(randomAngle));
+
 
        float rotateAngles = (360 * AmountRotations) + randomAngle;
 

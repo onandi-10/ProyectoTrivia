@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using DG.Tweening;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class QuestionsManager : Singleton<QuestionsManager>
 {
@@ -16,9 +17,9 @@ public class QuestionsManager : Singleton<QuestionsManager>
 
     public QuestionUI Question;
 
-    public string CategoryName;
-
     private GameManager _gameManager;
+
+    private string _currentCategory;
 
     private QuestionModel _currentQuestion;
 
@@ -28,12 +29,17 @@ public class QuestionsManager : Singleton<QuestionsManager>
         //Reference
         _gameManager = GameManager.Instance;
 
+        _currentCategory = _gameManager.GetCurrentCategory();
+
         LoadNextQuestion();
     }
     
     void LoadNextQuestion()
     {
-        _currentQuestion = _gameManager.GetQuestionForCategory(CategoryName);
+    
+        _currentQuestion = _gameManager.GetQuestionForCategory(_currentCategory);
+        Debug.Log(_currentQuestion);
+        
         if(_currentQuestion != null)
         {
             Question.PopulateQuestion(_currentQuestion);
