@@ -22,18 +22,13 @@ MonoBehaviour:
       Answer3: 2002
       Answer4: 2001
       CorrectAnswerIndex: 3
-    - Question: 
-      Answer1: 
-      Answer2: 
-      Answer3: 
-      Answer4: 
-      CorrectAnswerIndex: 0
-    - Question: "\xBFCu\xE1l era la direcci\xF3n que Dori estaba buscando a Nemo?"
-      Answer1: P Sherman 42 Wallaby Way Sidney
-      Answer2: 'E Sherman 52 Wallaby Way Sidney '
-      Answer3: C Sherman 68 Wallaby Way Sidney
-      Answer4: A Sherman 42 Wallaby Way Sidney
-      CorrectAnswerIndex: 1
+    - Question: "\xBFQui\xE9n es el primer Saiyajin en venir a la Tierra para buscar
+        a Goku?"
+      Answer1: Vegeta
+      Answer2: Nappa
+      Answer3: Bardock
+      Answer4: Raditz
+      CorrectAnswerIndex: 4
     - Question: "\xBFCu\xE1l era la direcci\xF3n que Dori estaba buscando a Nemo?"
       Answer1: P Sherman 42 Wallaby Way Sidney
       Answer2: 'E Sherman 52 Wallaby Way Sidney '
