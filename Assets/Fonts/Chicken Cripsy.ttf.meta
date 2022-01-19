@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: aff90248a7688954faef8b8ca90e1246
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Chicken Crispy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b2b61b993d43d94e8066dcaa82c9fd6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
