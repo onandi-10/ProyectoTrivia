@@ -15,8 +15,12 @@ public class WheelUI : MonoBehaviour
 
     public int AmountRotations;
 
+    public GameObject Sound;
+
    public void SpinWheel()
    {
+       Instantiate(Sound);
+       
        float randomAngle = Random.Range(0, 360);
 
        GameManager.Instance.SetCurrentCategory(GetLandedCategory(randomAngle));
