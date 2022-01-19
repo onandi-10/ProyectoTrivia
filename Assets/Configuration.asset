@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: Configuration
   m_EditorClassIdentifier: 
   Categories:
-  - CategoryName: Television
+  - CategoryName: television
     Questions:
     - Question: "\xBFEn que a\xF1o salio la primera pel\xEDcula de Spiderman de Sam
         Raimi"
@@ -35,7 +35,7 @@ MonoBehaviour:
       Answer3: C Sherman 68 Wallaby Way Sidney
       Answer4: A Sherman 42 Wallaby Way Sidney
       CorrectAnswerIndex: 1
-  - CategoryName: Math
+  - CategoryName: math
     Questions:
     - Question: "\xBFA cu\xE1nto equivale \u03C0?"
       Answer1: 3.1012
@@ -56,7 +56,7 @@ MonoBehaviour:
       Answer3: 7
       Answer4: 5
       CorrectAnswerIndex: 2
-  - CategoryName: Music
+  - CategoryName: music
     Questions:
     - Question: "\xBFQu\xE9 cantante es considerado \u201CEl Rey del Rock and Roll\u201D?  "
       Answer1: Jim Morrison
@@ -76,7 +76,7 @@ MonoBehaviour:
       Answer3: El bajo
       Answer4: La bateria
       CorrectAnswerIndex: 3
-  - CategoryName: Science
+  - CategoryName: science
     Questions:
     - Question: "\xBFC\xF3mo se llama el componente m\xEDnimo que forma a los seres
         vivos?  "
@@ -97,7 +97,7 @@ MonoBehaviour:
       Answer3: 30.000 km/h
       Answer4: 300.000 km/s
       CorrectAnswerIndex: 4
-  - CategoryName: Literature
+  - CategoryName: literature
     Questions:
     - Question: "\xBFQui\xE9n es el autor de la 'Divina comedia'?  "
       Answer1: Petrarca
@@ -117,7 +117,7 @@ MonoBehaviour:
       Answer3: "La saga del Se\xF1or de loa anillos"
       Answer4: Citas del presidente Mao
       CorrectAnswerIndex: 1
-  - CategoryName: Quotes
+  - CategoryName: quotes
     Questions:
     - Question: No hay caminos para la ... ; la ... es el camino (Mahatma Gandhi)
       Answer1: Guerra
@@ -137,7 +137,7 @@ MonoBehaviour:
       Answer3: Te llena de felicidad.
       Answer4: "Te hace m\xE1s fuerte."
       CorrectAnswerIndex: 4
-  - CategoryName: Geography
+  - CategoryName: geography
     Questions:
     - Question: "\xBFCu\xE1l es el pa\xEDs con m\xE1s volcanes?"
       Answer1: Costa Rica
@@ -157,7 +157,7 @@ MonoBehaviour:
       Answer3: China
       Answer4: Italia
       CorrectAnswerIndex: 4
-  - CategoryName: Movies
+  - CategoryName: movies
     Questions:
     - Question: "\xBFQu\xE9 padre e hijo protagonizaron la pel\xEDcula En Busca de
         la Felicidad?   "

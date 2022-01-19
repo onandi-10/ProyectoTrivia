@@ -9,6 +9,8 @@ public class GameManager : Singleton<GameManager>
 
     private string _currentCategory;
 
+    private int answerIndex;
+
     private List<int> _askedQuestionIndex = new List<int>();
 
     public QuestionModel GetQuestionForCategory(string categoryName)

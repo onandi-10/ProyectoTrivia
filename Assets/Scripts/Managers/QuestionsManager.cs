@@ -49,8 +49,9 @@ public class QuestionsManager : Singleton<QuestionsManager>
         OnNewQuestionLoaded?.Invoke();
     }
 
-    public bool AnswerQuestion (int answerIndex)
+    public bool AnswerQuestion(int answerIndex)
     {
+   
 
         OnAnswerProvided?.Invoke();
         
