@@ -402,8 +402,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: This will be  our question text for this particular question
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 1c0bf8b4ee230ad418fe4625e8d2a0bf, type: 2}
-  m_sharedMaterial: {fileID: 7824992546741433992, guid: 1c0bf8b4ee230ad418fe4625e8d2a0bf, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: c1e0f1d4e5a9356419c0b8d596619e30, type: 2}
+  m_sharedMaterial: {fileID: 825381159496412091, guid: c1e0f1d4e5a9356419c0b8d596619e30, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -427,8 +427,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 50
-  m_fontSizeBase: 50
+  m_fontSize: 65
+  m_fontSizeBase: 65
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -630,6 +630,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Answer_4
       objectReference: {fileID: 0}
+    - target: {fileID: 3437285736073754445, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
+      propertyPath: m_fontSize
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 3437285736073754445, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 45
+      objectReference: {fileID: 0}
     - target: {fileID: 8555142234365453697, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
       propertyPath: AnswerIndex
       value: 4
@@ -746,6 +754,14 @@ PrefabInstance:
     - target: {fileID: 3437285735222610017, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
       propertyPath: m_Name
       value: Answer_3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3437285736073754445, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
+      propertyPath: m_fontSize
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 3437285736073754445, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 8555142234365453697, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
       propertyPath: AnswerIndex
@@ -864,6 +880,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Answer _2
       objectReference: {fileID: 0}
+    - target: {fileID: 3437285736073754445, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
+      propertyPath: m_fontSize
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 3437285736073754445, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 45
+      objectReference: {fileID: 0}
     - target: {fileID: 8555142234365453697, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
       propertyPath: AnswerIndex
       value: 2
@@ -980,6 +1004,14 @@ PrefabInstance:
     - target: {fileID: 3437285735222610017, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
       propertyPath: m_Name
       value: Answer_1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3437285736073754445, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
+      propertyPath: m_fontSize
+      value: 45
+      objectReference: {fileID: 0}
+    - target: {fileID: 3437285736073754445, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
+      propertyPath: m_fontSizeBase
+      value: 45
       objectReference: {fileID: 0}
     - target: {fileID: 8555142234365453697, guid: 993043dd4cf8c364b94a569ddfc96d59, type: 3}
       propertyPath: AnswerIndex
