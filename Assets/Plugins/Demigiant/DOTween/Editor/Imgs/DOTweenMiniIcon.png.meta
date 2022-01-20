@@ -1,9 +1,18 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 6e86ab3a44cc26345a1bdee5584e8e73
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
   serializedVersion: 11
+=======
+guid: 61521df2e071645488ba3d05e49289ae
+timeCreated: 1602317874
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName: {}
+  serializedVersion: 4
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
@@ -11,8 +20,11 @@ TextureImporter:
     linearTexture: 0
     fadeOut: 0
     borderMipMap: 0
+<<<<<<< HEAD
     mipMapsPreserveCoverage: 0
     alphaTestReferenceValue: 0.5
+=======
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
     mipMapFadeDistanceStart: 1
     mipMapFadeDistanceEnd: 3
   bumpmap:
@@ -21,9 +33,12 @@ TextureImporter:
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 0
+<<<<<<< HEAD
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+=======
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -31,6 +46,7 @@ TextureImporter:
   textureFormat: 1
   maxTextureSize: 2048
   textureSettings:
+<<<<<<< HEAD
     serializedVersion: 2
     filterMode: 1
     aniso: 1
@@ -38,6 +54,12 @@ TextureImporter:
     wrapU: 0
     wrapV: 0
     wrapW: 0
+=======
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: -1
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
   nPOTScale: 1
   lightmap: 0
   compressionQuality: 50
@@ -46,14 +68,20 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
+<<<<<<< HEAD
   spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
+=======
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
   alphaUsage: 1
   alphaIsTransparency: 0
   spriteTessellationDetail: -1
   textureType: 0
   textureShape: 1
+<<<<<<< HEAD
   singleChannelComponent: 0
   flipbookRows: 1
   flipbookColumns: 1
@@ -67,18 +95,30 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
+=======
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+<<<<<<< HEAD
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+=======
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
   spriteSheet:
     serializedVersion: 2
     sprites: []
     outline: []
+<<<<<<< HEAD
     physicsShape: []
     bones: []
     spriteID: 
@@ -91,6 +131,9 @@ TextureImporter:
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
+=======
+  spritePackingTag: 
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

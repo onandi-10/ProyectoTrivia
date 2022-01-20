@@ -1,4 +1,5 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 9b914fa332da5734794fed067c4cc7ba
 PluginImporter:
   externalObjects: {}
@@ -25,6 +26,23 @@ PluginImporter:
   - first:
       Windows Store Apps: WindowsStoreApps
     second:
+=======
+guid: a811bde74b26b53498b4f6d872b09b6d
+PluginImporter:
+  serializedVersion: 1
+  iconMap: {}
+  executionOrder: {}
+  isPreloaded: 0
+  platformData:
+    Any:
+      enabled: 1
+      settings: {}
+    Editor:
+      enabled: 0
+      settings:
+        DefaultValueInitialized: true
+    WindowsStoreApps:
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
       enabled: 0
       settings:
         CPU: AnyCPU

@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: d07e5fb97af15c844a7559f6997b7b3b
+=======
+guid: 91e4394f3528a124db23688cc0fdb621
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -10,8 +14,12 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - Roboto Slab
+<<<<<<< HEAD
   fallbackFontReferences:
   - {fileID: 12800000, guid: 804b5b7133d848a40b578fa5761f039e, type: 3}
+=======
+  fallbackFontReferences: []
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1

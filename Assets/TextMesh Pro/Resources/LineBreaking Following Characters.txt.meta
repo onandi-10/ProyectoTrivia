@@ -1,7 +1,14 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: c7cf2215382bc054fa1c40f253cff03a
 TextScriptImporter:
   externalObjects: {}
+=======
+guid: fade42e8bc714b018fac513c043d323b
+timeCreated: 1425440388
+licenseType: Store
+TextScriptImporter:
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
   userData: 
   assetBundleName: 
   assetBundleVariant: 

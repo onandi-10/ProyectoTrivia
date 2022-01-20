@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 02235a8dae8e80f4ead85aaff4d25602
+=======
+guid: aff90248a7688954faef8b8ca90e1246
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -10,11 +14,20 @@ TrueTypeFontImporter:
   includeFontData: 1
   fontNames:
   - Chicken Crispy
+<<<<<<< HEAD
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
   useLegacyBoundsCalculation: 0
+=======
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0b2b61b993d43d94e8066dcaa82c9fd6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 1
+>>>>>>> 4b651c0d53af0d5e131d7cf358c328748d4112b0
   shouldRoundAdvanceValue: 1
   userData: 
   assetBundleName: 
